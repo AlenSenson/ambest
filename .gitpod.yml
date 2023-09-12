@@ -1,8 +1,0 @@
-image: gitpod/workspace-full
-
-extensions:
-  - vscode-python
-
-hooks:
-  prebuild:
-    - pip3 install reflex
